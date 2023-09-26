@@ -8,3 +8,4 @@ Online complaint registration is a digital platform or system that allows indivi
 ![feedback](https://github.com/Shivam26-code/OnlineComplaintRegistration/assets/77721397/83dce3c8-5af5-4ab9-a932-00b57786f5b3)
 ![database](https://github.com/Shivam26-code/OnlineComplaintRegistration/assets/77721397/27fe4e96-aeb1-4afe-be65-23162e23d33c)
 ![storage](https://github.com/Shivam26-code/OnlineComplaintRegistration/assets/77721397/a159f255-2a60-43a0-b27a-9f8d7610d5f8)
+![ADDHAR FRONT](https://github.com/Shivam26-code/OnlineComplaintRegistration/assets/77721397/1f07febe-ab8a-418d-85ce-554edb54228a)
